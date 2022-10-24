@@ -1,5 +1,5 @@
 # EmployeeSalaryCalculator
-Patika.dev ebebek Java&QA Practicum
+**Patika.dev ebebek Java&QA Practicum**
 
 ## İstenilen Nitelikler
 - Employee(name,salary,workHours,hireYear) : Kurucu metot olup 4 parametre alacaktır.
